@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\bin\Debug\10两种类型转换.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\bin\Debug\10两种类型转换.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\bin\Debug\10两种类型转换.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\obj\Debug\10两种类型转换.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\obj\Debug\10两种类型转换.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\obj\Debug\10两种类型转换.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\10两种类型转换\10两种类型转换\obj\Debug\10两种类型转换.pdb

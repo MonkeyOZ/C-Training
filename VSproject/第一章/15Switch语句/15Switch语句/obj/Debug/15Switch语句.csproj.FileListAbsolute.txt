@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\bin\Debug\15Switch语句.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\bin\Debug\15Switch语句.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\bin\Debug\15Switch语句.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\obj\Debug\15Switch语句.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\obj\Debug\15Switch语句.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\obj\Debug\15Switch语句.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\15Switch语句\15Switch语句\obj\Debug\15Switch语句.pdb

@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\bin\Debug\12关系运算符与逻辑运算符.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\bin\Debug\12关系运算符与逻辑运算符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\bin\Debug\12关系运算符与逻辑运算符.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\obj\Debug\12关系运算符与逻辑运算符.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\obj\Debug\12关系运算符与逻辑运算符.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\obj\Debug\12关系运算符与逻辑运算符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\12关系运算符与逻辑运算符\12关系运算符与逻辑运算符\obj\Debug\12关系运算符与逻辑运算符.pdb

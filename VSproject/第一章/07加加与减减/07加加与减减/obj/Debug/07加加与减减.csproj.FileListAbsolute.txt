@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\bin\Debug\07加加与减减.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\bin\Debug\07加加与减减.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\bin\Debug\07加加与减减.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\obj\Debug\07加加与减减.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\obj\Debug\07加加与减减.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\obj\Debug\07加加与减减.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\07加加与减减\07加加与减减\obj\Debug\07加加与减减.pdb

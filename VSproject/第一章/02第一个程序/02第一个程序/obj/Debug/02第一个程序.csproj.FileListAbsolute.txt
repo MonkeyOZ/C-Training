@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\bin\Debug\02第一个程序.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\bin\Debug\02第一个程序.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\bin\Debug\02第一个程序.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\obj\Debug\02第一个程序.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\obj\Debug\02第一个程序.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\obj\Debug\02第一个程序.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\02第一个程序\02第一个程序\obj\Debug\02第一个程序.pdb

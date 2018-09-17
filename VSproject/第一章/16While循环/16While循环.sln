@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16While循环", "16While循环\16While循环.csproj", "{6607E0B2-0557-4EC3-AA6A-2300C189B50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6607E0B2-0557-4EC3-AA6A-2300C189B50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6607E0B2-0557-4EC3-AA6A-2300C189B50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6607E0B2-0557-4EC3-AA6A-2300C189B50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6607E0B2-0557-4EC3-AA6A-2300C189B50E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C427122-BECA-4FB0-95A0-8925FB88CEE4}
+	EndGlobalSection
+EndGlobal

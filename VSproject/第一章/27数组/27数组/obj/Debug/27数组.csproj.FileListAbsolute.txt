@@ -1,0 +1,14 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\bin\Debug\27数组.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\bin\Debug\27数组.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\bin\Debug\27数组.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\obj\Debug\27数组.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\obj\Debug\27数组.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\obj\Debug\27数组.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\27数组\27数组\obj\Debug\27数组.pdb
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\bin\Debug\27数组.exe.config
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\bin\Debug\27数组.exe
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\bin\Debug\27数组.pdb
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\obj\Debug\27数组.csprojAssemblyReference.cache
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\obj\Debug\27数组.csproj.CoreCompileInputs.cache
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\obj\Debug\27数组.exe
+C:\Users\monke\Documents\VSproject\lianxi\第一章\27数组\27数组\obj\Debug\27数组.pdb

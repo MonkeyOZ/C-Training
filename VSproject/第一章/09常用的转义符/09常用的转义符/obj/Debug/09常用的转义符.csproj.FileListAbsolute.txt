@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\bin\Debug\09常用的转义符.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\bin\Debug\09常用的转义符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\bin\Debug\09常用的转义符.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\obj\Debug\09常用的转义符.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\obj\Debug\09常用的转义符.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\obj\Debug\09常用的转义符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\09常用的转义符\09常用的转义符\obj\Debug\09常用的转义符.pdb

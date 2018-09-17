@@ -1,0 +1,7 @@
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\bin\Debug\06运算符和占位符.exe.config
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\bin\Debug\06运算符和占位符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\bin\Debug\06运算符和占位符.pdb
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\obj\Debug\06运算符和占位符.csprojAssemblyReference.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\obj\Debug\06运算符和占位符.csproj.CoreCompileInputs.cache
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\obj\Debug\06运算符和占位符.exe
+C:\Users\wanghg\Documents\VSproject\lianxi\06运算符和占位符\obj\Debug\06运算符和占位符.pdb
